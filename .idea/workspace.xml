@@ -2,17 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745bdc61-52f2-4173-8ebf-ed317f60f3bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VUbfx0wipb5B2rsKfLqQtxhNUL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,20 +55,87 @@
       <option name="presentableId" value="Default" />
       <updated>1577310727274</updated>
     </task>
+    <task id="LOCAL-00001" summary="Are you sure?">
+      <created>1577310779797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577310779797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Are you sure?">
+      <created>1577310860085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577310860085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Are you sure?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Are you sure?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577310828169">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="581" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1577310828169" />
-    <state x="473" y="139" key="CommitChangelistDialog2" timestamp="1577310779621">
+    <state x="473" y="139" key="CommitChangelistDialog2" timestamp="1577310859951">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="473" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1577310779621" />
+    <state x="473" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1577310859951" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1577311126920">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577311126920" />
     <state x="691" y="254" key="RollbackChangesDialog" timestamp="1577310849789">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="691" y="254" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577310849789" />
+    <state x="678" y="413" key="VCS.EditChangelistDialog" timestamp="1577311119432">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="678" y="413" key="VCS.EditChangelistDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577311119432" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1577311092422">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577311092422" />
   </component>
 </project>
