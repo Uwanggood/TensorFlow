@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745bdc61-52f2-4173-8ebf-ed317f60f3bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestPython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="cd350bc7-aa90-4f46-bb27-7959070b35df" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +50,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="745bdc61-52f2-4173-8ebf-ed317f60f3bf" name="Default Changelist" comment="" />
+      <changelist id="cd350bc7-aa90-4f46-bb27-7959070b35df" name="New changelist" comment="" />
       <created>1577310727274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577310860085</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Are you sure?">
+      <created>1577311139295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577311139295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,10 +125,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="581" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1577310828169" />
-    <state x="473" y="139" key="CommitChangelistDialog2" timestamp="1577310859951">
+    <state x="473" y="139" key="CommitChangelistDialog2" timestamp="1577311139125">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="473" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1577310859951" />
+    <state x="473" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1577311139125" />
     <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1577311126920">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -133,9 +141,17 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="678" y="413" key="VCS.EditChangelistDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577311119432" />
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1577311092422">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1577311174493">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577311092422" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1577311174493" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1577591326244">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1577591326244" />
+    <state x="506" y="160" width="667" height="729" key="find.popup" timestamp="1578126925553">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="506" y="160" width="667" height="729" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1578126925553" />
   </component>
 </project>
